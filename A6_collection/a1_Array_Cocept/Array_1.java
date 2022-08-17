@@ -16,7 +16,6 @@ public class Array_1 {
 //	a[7]=80;
 //	a[8]=90;
 	
-	System.out.println("yogesh");
 		
 	for (int i = 0;i<a.length;i++)
 	{
