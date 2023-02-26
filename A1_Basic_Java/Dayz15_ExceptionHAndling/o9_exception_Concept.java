@@ -8,19 +8,21 @@ public class o9_exception_Concept {
 
 		int a =20;
 		int b =0;
+		int c;
 	
 	//  int c = a/b;            // Risky code have to write in the try block otherwise
 		 					    // it will throw the exception and terminate the flow of execution
 	
 		try {
 			
-			int c = a/b;
+			 c = a/b;
 
-			System.out.println(c);
+			System.out.println("Hello");
 
 		}
 		catch(Exception e)
 		{
+			c=a/a;
 			System.out.println(e);
 		}
 	

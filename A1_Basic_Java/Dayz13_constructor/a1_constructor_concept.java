@@ -9,9 +9,14 @@ public a1_constructor_concept ()
 		System.out.println("pass = 123456");
 		System.out.println("stage url = www.facebook.com");
 		System.out.println();
+		m2();
 		
 	}
 
+ public  void m2()
+ {
+	 System.out.println("logger");
+ }
 
 	public static void main(String[] args) {
 	
