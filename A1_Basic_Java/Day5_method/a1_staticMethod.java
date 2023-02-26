@@ -17,7 +17,10 @@ public class a1_staticMethod {
 		System.out.println("fly in sky");
 	}
 
-	
+	public static void m1 () 
+	{
+		System.out.println("m1");
+	}
 	public static void main(String[] args) { 
 	
 		    a1_staticMethod.cat  ();               //class name.method name();
