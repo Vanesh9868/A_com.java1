@@ -2,15 +2,13 @@ package Dayz13_constructor;
 
 public class a1_constructor_concept {
 		
-public a1_constructor_concept ()
-	{
-	
+   a1_constructor_concept ()
+	{	
 		System.out.println("username = yogesh");
 		System.out.println("pass = 123456");
 		System.out.println("stage url = www.facebook.com");
 		System.out.println();
 		m2();
-		
 	}
 
  public  void m2()
