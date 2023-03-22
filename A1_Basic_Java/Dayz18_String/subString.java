@@ -1,4 +1,4 @@
-package Dayz18_String_to_int;
+package Dayz18_String;
 
 public class subString {
 
