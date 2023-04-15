@@ -1,8 +1,8 @@
-package Dayz13_Array;
+package a7_Array;
 
 import java.util.Arrays;
 
-public class test2 {
+public class addArray_withRemoveMin_Max_value {
 	
 	public static int addition(int[] a) {
 		int sum = 0;
@@ -13,7 +13,6 @@ public class test2 {
 		}
 		return sum;
 	}
-
 
 	public static void main(String[] args) {
 
