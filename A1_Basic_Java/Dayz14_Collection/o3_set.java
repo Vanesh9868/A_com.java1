@@ -13,14 +13,17 @@ public class o3_set {
 		set1.add("yogesh");
 		set1.add("manish");
 		set1.add("niraj");
+		set1.add("rahul");
+		set1.add("hirak");
+
 		
-		System.out.println("set1 : "+set1);
+//		System.out.println("set1 : "+set1);
 
 		Iterator<String> it=set1.iterator();
 		
 		while(it.hasNext())
 		{
-			System.out.println(it.next());
+//			System.out.println(it.next());
 
 			if(it.next().equalsIgnoreCase("yogesh"))
 			{

@@ -14,11 +14,7 @@ public class C_do_while_loop {
 		}
 		while (i<=5);
 		
-		
-		
-		
-		
-		
+			
 		
 	}
 

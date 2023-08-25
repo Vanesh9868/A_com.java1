@@ -28,6 +28,9 @@ public class data_type {
 		   System.out.println(h);
 		   System.out.println(i);
 		   System.out.println(j);
+		   
+		   System.out.println("5"+"2");
+		   System.out.println(5+3);
 
 		
 		   

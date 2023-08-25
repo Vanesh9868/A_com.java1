@@ -2,15 +2,18 @@ package Day1_Hello;
 
 public class hello {
 
-	public static void main(String[] args) {
+	public static int a = 10;
 
-		System.out.println("hello");	
-		System.out.println("yogesh");
-		System.out.println("yogesh"+"shinde");
-		
-		
+	void m1() {
+		System.out.println("m1");
 	}
 
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+
+		System.out.println(a);
+
+		hello h = new hello();
+		h.m1();
+	}
 }
-
-

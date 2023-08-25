@@ -4,41 +4,12 @@ public class o2_1D_Array {
 
 	public static void main(String[] args) {
 
-		int a []= {10,20,30};    // array creation and initialisation
-				
+		int a[] = { 10, 20, 30 }; // array creation and initialisation
+
 		System.out.println(a[0]);
 		System.out.println(a[1]);
 		System.out.println(a[2]);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 //		System.out.println(a.length);
 //		
 //		for(int i=0;i<a.length;i++)
@@ -58,10 +29,7 @@ public class o2_1D_Array {
 //		System.out.println(c[1]);
 //
 //		
-		
-		
+
 	}
 
 }
-
-
